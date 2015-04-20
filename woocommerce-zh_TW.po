@@ -6463,7 +6463,7 @@ msgstr "訂單 %s"
 
 #: includes/class-wc-query.php:119
 msgid "Edit Account Details"
-msgstr "編輯帳戶詳情."
+msgstr "編輯帳戶資料"
 
 #: includes/class-wc-query.php:122
 msgid "Edit Address"
