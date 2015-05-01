@@ -10,8 +10,7 @@
 
 #### 譯者
 
-翻譯檔來源為 [WooCommerce 台灣中文開源版](https://www.transifex.com/projects/p/woocommerce/language/zh_TW/)，
-為感謝所有譯者對中文化的貢獻，本修正檔完整保留當前使用版本(04/22/15)之所有譯者人員名單。
+翻譯檔來源為 [WooCommerce 台灣中文開源版](https://www.transifex.com/projects/p/woocommerce/language/zh_TW/)，為感謝所有譯者對中文化的貢獻，本修正檔完整保留當前使用版本 (04/22/15) 之所有譯者人員名單。
 
 
 #### 建議
