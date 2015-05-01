@@ -1,6 +1,6 @@
 [![wc-tw](https://cloud.githubusercontent.com/assets/6985904/7420239/50904f06-efad-11e4-9b33-7cab0c403909.png)](www.facebook.com/groups/woocommercetaiwan)
 
-## WooCommerce 中文前台翻譯修正
+## WooCommerce 中文翻譯修正版
  改進一些台灣中文的翻譯問題
  
 #### 使用
