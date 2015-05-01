@@ -1,6 +1,7 @@
 # Copyright (C) 2015 WooThemes
 # This file is distributed under the same license as the WooCommerce package.
 # Translators:
+# WooCommerce Taiwan Group
 # andercola <andercola@gmail.com>, 2014
 # Gordon Yu <g168661@gmail.com>, 2014
 # Gordon Yu <g168661@gmail.com>, 2014-2015
