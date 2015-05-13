@@ -21,4 +21,4 @@
 
 #### 關於
 
-[WooCommerce Taiwan Group](www.facebook.com/groups/woocommercetaiwan/)
+[WooCommerce Taiwan Group](http://www.facebook.com/groups/woocommercetaiwan/)
