@@ -6403,7 +6403,7 @@ msgstr "上層網頁連結"
 #: includes/class-wc-post-types.php:420
 msgid "Pending payment <span class=\"count\">(%s)</span>"
 msgid_plural "Pending payment <span class=\"count\">(%s)</span>"
-msgstr[0] "<span class=\"count\">(%s)</span> 個待處理付款"
+msgstr[0] "<span class=\"count\">(%s)</span> 筆訂單待付款"
 
 #: includes/class-wc-post-types.php:428
 msgid "Processing <span class=\"count\">(%s)</span>"
@@ -9795,7 +9795,7 @@ msgstr "uncategorized"
 #: includes/class-wc-post-types.php:415
 msgctxt "Order status"
 msgid "Pending payment"
-msgstr "待處理付款"
+msgstr "等待付款中"
 
 #: includes/class-wc-post-types.php:423 includes/wc-order-functions.php:26
 msgctxt "Order status"
