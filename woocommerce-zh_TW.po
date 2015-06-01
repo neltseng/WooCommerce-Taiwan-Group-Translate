@@ -9593,7 +9593,7 @@ msgstr "http://woothemes.com"
 #: i18n/states/US.php:23
 msgctxt "US state of Georgia"
 msgid "Georgia"
-msgstr "格魯吉亞"
+msgstr "喬治亞州"
 
 #: includes/abstracts/abstract-wc-product.php:990
 msgctxt "min_price"
